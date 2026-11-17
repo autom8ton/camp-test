@@ -1,4 +1,4 @@
-# My App Brief
+# My App Brief 
 
 Copy your MVP Plan Worksheet into this file.
 Copilot reads it before it builds anything.
